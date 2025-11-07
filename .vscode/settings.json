@@ -1,0 +1,7 @@
+﻿{
+  "java.project.sourcePaths": ["src/uebung3"],
+  "java.project.outputPath": "bin/uebung3",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
